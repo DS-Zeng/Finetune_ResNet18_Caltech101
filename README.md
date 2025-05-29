@@ -33,7 +33,7 @@ pip install torch torchvision tqdm optuna tensorboard scikit-learn
 ### Setup
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/resnet18-caltech101-finetuning.git
+git clone https://github.com/DS-Zeng/Finetune_ResNet18_Caltech101.git
 cd resnet18-caltech101-finetuning
 ```
 
