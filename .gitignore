@@ -1,0 +1,6 @@
+*.tex
+*.pth
+comparison_results.txt
+runs/*
+data/*
+ResNet-18/train_ResNet-18_caltech101.py
